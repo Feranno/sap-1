@@ -41,3 +41,7 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
 Multiplication: 6 x 8 = 48. 
 Fibonacci sequence 0,1,1,2,3,5,8,13,21,34,55,89,144,233. 
 Testing jump/conditional: Counts up to 255. Counts down to 0. Repeat.
+
+Further Reading:
+[What I learned from Building a Homemade 8-Bit Breadboard Computer. | Max Zhou](https://www.linkedin.com/pulse/what-i-learned-from-building-homemade-8-bit-breadboard-max-zhou/)
+[8-Bit Breadboard Computer | The Shamblog](https://theshamblog.com/8-bit-breadboard-computer/)
