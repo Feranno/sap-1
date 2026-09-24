@@ -23,9 +23,11 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
 
 *The completed 8-bit computer showing ~200 hand-wired connections, logic gates, LEDs, and 7-segment displays. The display shows "055" - output from a running Fibonacci sequence program.*
 
-![Hardware: Control Signal Overview](images/Hardware-control-signal-overview.jpeg)
+<img src="images/Hardware-control-signal-overview.jpeg"
+     alt="Hardware: Control Signal Overview" width="400">
 
-![Fibonacci Sequence: Assembly](images/fibonacci_sequence_assembly.jpeg)
+<img src="images/fibonacci_sequence_assembly.jpeg"
+     alt="Fibonacci Sequence: Assemblyw" width="400">
 
 ---
 
