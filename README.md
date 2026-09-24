@@ -21,22 +21,23 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
 
 ![8-bit breadboard computer](images/breadboard-computer.jpg)
 
-*The completed 8-bit computer showing ~200 hand-wired connections, logic gates, LEDs, and 7-segment displays. The display shows "055" - output from a running Fibonacci sequence program.*
+*The completed 8-bit computer showing ~200 hand-wired connections, logic gates, LEDs, and 7-segment displays. The display shows "055" - output from a running Fibonacci sequence program.* <br>
 
-<!-- Container to hold both images side-by-side -->
-<div style="display: flex; gap: 10px; justify-content: center;">
-
+<table>
+  <tr>
   <!-- First Image -->
-<img src="images/Hardware-control-signal-overview.jpeg"
-     alt="Hardware: Control Signal Overview" width="400">
+Hardware: Control Signal Overview
+<td><img src="images/Hardware-control-signal-overview.jpeg"
+     alt="Hardware: Control Signal Overview" width="400"><td>
 
   <!-- Second Image -->
-<img src="images/fibonacci_sequence_assembly.jpeg"
-     alt="Fibonacci Sequence: Assemblyw" width="400">
-     
-</div>
+Fibonacci Sequence: Assembly
+<td><img src="images/fibonacci_sequence_assembly.jpeg"
+     alt="Fibonacci Sequence: Assembly" width="400"><td>
+  </tr>
+</table>
 
----
+--- <br>
 
 ## Technical Specifications
 
