@@ -25,15 +25,20 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
 
 <table>
   <tr>
-  <!-- First Image -->
-Hardware: Control Signal Overview
+  <!-- Table head -->
+ <thead>
+<tr>
+  <th>Hardware: Control Signal Overview</th>
+  <th>Fibonacci Sequence: Assembly</th>
+</tr>
+  </thead>
+    
+  <!-- Table Data -->
 <td><img src="images/Hardware-control-signal-overview.jpeg"
-     alt="Hardware: Control Signal Overview" width="400"><td>
+     alt="Hardware: Control Signal Overview" width="800"><td>
 
-  <!-- Second Image -->
-Fibonacci Sequence: Assembly
 <td><img src="images/fibonacci_sequence_assembly.jpeg"
-     alt="Fibonacci Sequence: Assembly" width="400"><td>
+     alt="Fibonacci Sequence: Assembly" width="800"><td>
   </tr>
 </table>
 
