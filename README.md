@@ -38,7 +38,7 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
      alt="Hardware: Control Signal Overview" width="1000">
 
 <td><img src="images/fibonacci_sequence_assembly.jpeg"
-     alt="Fibonacci Sequence: Assembly" width="800"><td>
+     alt="Fibonacci Sequence: Assembly" width="1000"><td>
   </tr>
 </table>
 
