@@ -35,10 +35,10 @@ Yes, and if I had a choice to make this computer, I would not. It’s wayyy too 
     
   <!-- Table Data -->
 <td><img src="images/Hardware-control-signal-overview.jpeg"
-     alt="Hardware: Control Signal Overview" width="1000">
+     alt="Hardware: Control Signal Overview" width="1000"></td>
 
 <td><img src="images/fibonacci_sequence_assembly.jpeg"
-     alt="Fibonacci Sequence: Assembly" width="1000"><td>
+     alt="Fibonacci Sequence: Assembly" width="800"></td>
   </tr>
 </table>
 
