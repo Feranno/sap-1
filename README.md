@@ -1,6 +1,7 @@
 # Building an 8-Bit Computer From Scratch
-
+<details>
 <video src="https://github.com/user-attachments/assets/05ccfb35-f5f6-4227-bde2-8bf7383773b5" controls width="100%"> </video>
+</details>
 <!--
 
 -->
